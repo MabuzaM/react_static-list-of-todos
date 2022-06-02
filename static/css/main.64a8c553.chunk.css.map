@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,MACE,YAAa,CACd,KAGC,YAAa","file":"main.64a8c553.chunk.css","sourcesContent":[".list {\n  padding: 20px;\n}\n\n.App {\n  padding: 50px;\n}\n"]}
